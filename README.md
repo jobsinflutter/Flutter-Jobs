@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Flutter Jobs — 2026
 
-<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
+<sub><small>Last updated: Nov 8, 2026 at 17:55 UTC</small></sub>
 
 Daily Flutter and Dart jobs curated by Jobs in Flutter.
 Updated daily by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs).
@@ -21,9 +21,6 @@ Visit [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=r
 | **[Glomopay](https://jobsinflutter.com/jobs/glomopay-mobile-engineer-frontend-43cc8487?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Mobile Engineer - Frontend](https://jobsinflutter.com/jobs/glomopay-mobile-engineer-frontend-43cc8487?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | Bengaluru HQ | On Site | Full Time | Aug 24 |
 | **[Plane](https://jobsinflutter.com/jobs/plane-software-engineer-mobile-flutter-0e8b4c1d?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Software Engineer, Mobile (Flutter)](https://jobsinflutter.com/jobs/plane-software-engineer-mobile-flutter-0e8b4c1d?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | United States | On Site | Full Time | Aug 24 |
 | **[Clera](https://jobsinflutter.com/jobs/clera-software-engineer-foundation-08f6ee7d?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Software Engineer, Foundation](https://jobsinflutter.com/jobs/clera-software-engineer-foundation-08f6ee7d?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | Berlin | On Site | Full Time | Aug 24 |
-| **[Tide](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-8f9a7320?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Engineering Manager, Member Accession Marketing](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-8f9a7320?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | India, Hyderabad | Remote | Full Time | Aug 20 |
-| **[Tide](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-75cde04f?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Engineering Manager, Member Accession Marketing](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-75cde04f?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | India, Bengaluru | Remote | Full Time | Aug 20 |
-| **[Tide](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-c5506881?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Engineering Manager, Member Accession Marketing](https://jobsinflutter.com/jobs/tide-engineering-manager-member-accession-marketing-c5506881?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | India, Delhi NCR | Remote | Full Time | Aug 20 |
 | **[Jumio](https://jobsinflutter.com/jobs/jumio-principal-ios-engineer-170609c0?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[Principal iOS Engineer](https://jobsinflutter.com/jobs/jumio-principal-ios-engineer-170609c0?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | India (remote) | Remote | Full Time | Jul 15 |
 | **[Banco Inter](https://jobsinflutter.com/jobs/banco-inter-developer-mobile-ios-android-pl-sr-and-spec-recife-1e07abb8?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[DEVELOPER MOBILE IOS/ANDROID (Pl, Sr & Spec) \| Recife](https://jobsinflutter.com/jobs/banco-inter-developer-mobile-ios-android-pl-sr-and-spec-recife-1e07abb8?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | Recife, PE | On Site | Full Time | Mar 4 |
 | **[Banco Inter](https://jobsinflutter.com/jobs/banco-inter-developer-mobile-ios-android-pl-sr-and-spec-curitiba-c89c1009?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | **[DEVELOPER MOBILE IOS/ANDROID (Pl, Sr & Spec) \| Curitiba](https://jobsinflutter.com/jobs/banco-inter-developer-mobile-ios-android-pl-sr-and-spec-curitiba-c89c1009?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs)** | Curitiba, PR | On Site | Full Time | Mar 4 |
@@ -33,12 +30,12 @@ Visit [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=r
 
 ---
 
-**Current Stats:** 18 jobs | 33% remote | 11 companies | 0 salary ranges listed
+**Current Stats:** 15 jobs | 20% remote | 11 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-01 archive](archive/2026-11-01.md)
+- [2026-11-08 archive](archive/2026-11-08.md)
 
 ## About This Repository
 

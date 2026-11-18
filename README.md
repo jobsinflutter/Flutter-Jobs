@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Flutter Jobs — 2026
 
-<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2026 at 20:27 UTC</small></sub>
 
 Daily Flutter and Dart jobs curated by Jobs in Flutter.
 Updated daily by [Jobs in Flutter](https://jobsinflutter.com?utm_source=github&utm_medium=repo&utm_campaign=github-flutter-jobs).
@@ -35,7 +35,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-16 archive](archive/2026-11-16.md)
+- [2026-11-18 archive](archive/2026-11-18.md)
 
 ## About This Repository
 
